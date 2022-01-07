@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinimm18
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Python Programming Language
+- 🌱 I’m currently learning Python Programming Language, Javascript using ReactJS
 - 💞️ I’m looking to collaborate with everyone
 
 <!---
